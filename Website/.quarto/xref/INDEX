@@ -1,0 +1,20 @@
+{
+  "labs/index.qmd": {
+    "index.html": "698eab34"
+  },
+  "bibliography/index.qmd": {
+    "index.html": "368e12db"
+  },
+  "index.qmd": {
+    "index.html": "9762528f"
+  },
+  "about.qmd": {
+    "about.html": "75ede25b"
+  },
+  "book/index.qmd": {
+    "index.html": "273ec21d"
+  },
+  "lectures/index.qmd": {
+    "index.html": "31d3fc1f"
+  }
+}

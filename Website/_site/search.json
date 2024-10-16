@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Lectures\nComing soon!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "bibliography/index.html",
+    "href": "bibliography/index.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "Bibliography\nComing soon!"
+  },
+  {
+    "objectID": "labs/index.html",
+    "href": "labs/index.html",
+    "title": "Computational Social Science for Sustainability (EBS 182/282)",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview and syllabus",
+    "section": "",
+    "text": "Hello, and welcome to the course website for Agent-Based Modeling, EBS 181/281, developed and taught by Dr. Matthew Turner, and offered for the first time Spring 2025 for Stanford Doerr School of Sustainability undergraduates and graduate students! Join the course to develop a nuanced understanding of human social behavior while learning advanced, transferable agent-based modeling computational skills using the R programming language.\n\n\nWe meet twice weekly, currently scheduled for Monday and Wednesday 11:30am-12:50pm, but subject to change, location pending. Each week will have twin themes, one social science phenomenon (e.g., political polarization) and one computational technique or skill (e.g., data science essentials for agent-based modeling). Lectures will include relevant computer and software engineering topics for designing efficient agent-based modeling programs that can be run on a supercomputing cluster. Stanford students will run their models on the Sherlock computing cluster here at Stanford."
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Overview and syllabus",
+    "section": "",
+    "text": "We meet twice weekly, currently scheduled for Monday and Wednesday 11:30am-12:50pm, but subject to change, location pending. Each week will have twin themes, one social science phenomenon (e.g., political polarization) and one computational technique or skill (e.g., data science essentials for agent-based modeling). Lectures will include relevant computer and software engineering topics for designing efficient agent-based modeling programs that can be run on a supercomputing cluster. Stanford students will run their models on the Sherlock computing cluster here at Stanford."
+  },
+  {
+    "objectID": "book/index.html",
+    "href": "book/index.html",
+    "title": "THIS IS A BOOK!!! OHHH YEAH!!!!",
+    "section": "",
+    "text": "THIS IS A BOOK!!! OHHH YEAH!!!!"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Overview and syllabus",
+    "section": "",
+    "text": "10 points per weekly assignment: I, 2pts; M 2pts, Code 3pts; R 3pts; D 1 pt."
+  },
+  {
+    "objectID": "index.html#midterm-exam",
+    "href": "index.html#midterm-exam",
+    "title": "Overview and syllabus",
+    "section": "Midterm exam:",
+    "text": "Midterm exam:\nWritten responses, formal calculations, explaining formalisms, writing pseudocode 20 pts"
+  },
+  {
+    "objectID": "index.html#final-exam",
+    "href": "index.html#final-exam",
+    "title": "Overview and syllabus",
+    "section": "Final exam:",
+    "text": "Final exam:\nWritten responses, formal calculations, explaining formalisms, writing pseudocode 40 pts"
+  },
+  {
+    "objectID": "index.html#midterm-project",
+    "href": "index.html#midterm-project",
+    "title": "Overview and syllabus",
+    "section": "Midterm project:",
+    "text": "Midterm project:\nPick one of the weekly assignments and expand upon it based upon your own interests. Same grading as weekly project, but scaled up to 20 points. Minimum 2000 words in IMAD/IMRaD format."
+  },
+  {
+    "objectID": "index.html#final-project",
+    "href": "index.html#final-project",
+    "title": "Overview and syllabus",
+    "section": "Final project",
+    "text": "Final project\nI will suggest several potential final projects, and students may invent their own. Same grading distribution as weekly project, but scaled up to 40 points. Minimum 3000 words in IMAD/IMRaD format."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Overview and syllabus",
+    "section": "Overview",
+    "text": "Overview\n\nWeekly assignments: There will be eight weekly assignments total, taking weeks off for midterm and final weeks to focus on projects and exams. Each will be worth 10 points.\nMidterm and final exams: There will be a midterm and final written exam possibly including written mathematics, mathematical derivations, and pseudocode solutions to logic or programming problems. The midterm exam will be worth 30 points; the final will be 30 points.\nMidterm project: 20 points\nFinal project: 40 points"
+  },
+  {
+    "objectID": "index.html#weekly-assignment",
+    "href": "index.html#weekly-assignment",
+    "title": "Overview and syllabus",
+    "section": "Weekly assignment",
+    "text": "Weekly assignment\n10 points per weekly assignment: I, 2pts; M 2pts, Code 3pts; R 3pts; D 1 pt."
+  }
+]
